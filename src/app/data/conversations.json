@@ -18,33 +18,20 @@
     },
     {
         "contact_id": 2,
-        "messages": [
-            {
-                "id": 1,
-                "text": "Hi John!",
-                "sender_id": 2,
-                "timestamp": "12:36 PM"
-            },
-            {
-                "id": 2,
-                "text": "I'm doing great, thanks!",
-                "sender_id": null,
-                "timestamp": "12:37 PM"
-            }
-        ]
+        "messages": []
     },
     {
         "contact_id": 3,
         "messages": [
             {
                 "id": 1,
-                "text": "Hey Alice, what's up?",
+                "text": "Hey Taylor what's up",
                 "sender_id": null,
                 "timestamp": "12:38 PM"
             },
             {
                 "id": 2,
-                "text": "Not much, just relaxing.",
+                "text": "Who are you and where did you get my number stop bothering me",
                 "sender_id": 3,
                 "timestamp": "12:39 PM"
             }

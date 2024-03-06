@@ -3,18 +3,29 @@
         "id": 1,
         "name": "John Doe",
         "profile_picture": "url_to_image",
-        "last_message": "Hi, how are you?"
+        "last_message": "Hi, how are you?",
+        "status": 0
     },
     {
         "id": 2,
         "name": "Jane Smith",
         "profile_picture": "url_to_image",
-        "last_message": "I'm doing great, thanks!"
+        "last_message": null,
+        "status": 1
     },
     {
         "id": 3,
+        "name": "Taylor Swift",
+        "profile_picture": "url_to_image",
+        "last_message": "Who are you and where did you get my number stop bothering me",
+        "blocked_me": true,
+        "status": 2
+    },
+    {
+        "id": 4,
         "name": "Alice Johnson",
         "profile_picture": "url_to_image",
-        "last_message": "Not much, just relaxing."
+        "last_message": "Not much, just relaxing.",
+        "status": 3
     }
 ]
