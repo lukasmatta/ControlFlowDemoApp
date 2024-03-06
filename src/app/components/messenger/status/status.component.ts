@@ -1,6 +1,6 @@
 import { NgSwitch, NgSwitchCase, NgSwitchDefault } from '@angular/common';
 import { Component, Input } from '@angular/core';
-import { Status } from '../../model/contact';
+import { Status } from '../../../model/contact';
 
 @Component({
   selector: 'app-status',
