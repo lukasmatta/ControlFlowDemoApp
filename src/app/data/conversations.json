@@ -1,0 +1,53 @@
+[
+    {
+        "contact_id": 1,
+        "messages": [
+            {
+                "id": 1,
+                "text": "Hey there!",
+                "sender_id": null,
+                "timestamp": "12:34 PM"
+            },
+            {
+                "id": 2,
+                "text": "Hi, how are you?",
+                "sender_id": 2,
+                "timestamp": "12:35 PM"
+            }
+        ]
+    },
+    {
+        "contact_id": 2,
+        "messages": [
+            {
+                "id": 1,
+                "text": "Hi John!",
+                "sender_id": 2,
+                "timestamp": "12:36 PM"
+            },
+            {
+                "id": 2,
+                "text": "I'm doing great, thanks!",
+                "sender_id": null,
+                "timestamp": "12:37 PM"
+            }
+        ]
+    },
+    {
+        "contact_id": 3,
+        "messages": [
+            {
+                "id": 1,
+                "text": "Hey Alice, what's up?",
+                "sender_id": null,
+                "timestamp": "12:38 PM"
+            },
+            {
+                "id": 2,
+                "text": "Not much, just relaxing.",
+                "sender_id": 3,
+                "timestamp": "12:39 PM"
+            }
+        ]
+    }
+]
