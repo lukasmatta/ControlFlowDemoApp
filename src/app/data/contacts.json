@@ -25,7 +25,7 @@
         "id": 4,
         "name": "Alice Johnson",
         "profile_picture": "url_to_image",
-        "last_message": "Not much, just relaxing.",
+        "last_message": null,
         "status": 3
     }
 ]
